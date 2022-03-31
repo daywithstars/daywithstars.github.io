@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I love game programming, especially when developing some pieces of components then putting them all together and that generates a variety of game systems or environments.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I start to learn programming in 2015 and I decide to make a GitHub account to publish some tools for game development that I might think will be useful for the community. Since that, I have learned a variety of technologies and tools around the programming languages: C, C++, JavaScript.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+But, this is only the beginning, I’m currently learning new technologies in my free time. So, I decided to create this blog not only for posting what I have created or tools that I’m currently working with, but to publish things that are very interesting to me about IT in general.
