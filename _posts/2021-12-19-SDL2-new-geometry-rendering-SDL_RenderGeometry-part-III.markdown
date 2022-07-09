@@ -49,6 +49,8 @@ const SDL_Vertex triangleVertex[NUM_TRIANGLE_VERTEX] = {
 };
 ```
 
+	{% include adsense.html %}
+
 The rest of the code remains the same, but for your triangle, we will use a definition to better understand what shape vertex we are using on construction and drawing. According to our **E** dot on screenshot it is located at: (x=25,y=20), **F** at (x=0,y=80) and **G** at (x=50,y=80). Also, we set each vertex the same color. Below is the render function:
 
 ```c
