@@ -5,6 +5,9 @@ date:   2021-12-19 14:56:40 -0300
 categories: SDL2 geometry
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1870599781062797"
+     crossorigin="anonymous"></script>
+
 
 Welcome to the last part of the series that covers almost everything you can do with SDL_RenderGeometry. In the future, I will cover more techniques and post more content instead of SDL2.
 In this post tutorial, we will draw different 2D shapes and give textures to our shapes. It will be divided into two parts: **Drawing different shapes** and **Adding textures**, which you can see right below:
