@@ -58,7 +58,7 @@ if ( !renderer )
 }
 ```
 
-	{% include adsense.html %}
+{% include adsense.html %}
 
 Now we define our SDL_Vertex, but what is SDL_Vertex? Well, if you know a little bit of graphics programming it is the custom vertice from a shader but with vertex position, vertex color, and texture map normalized in one place. If you don't know, there are just properties that we gonna use to draw our colored shapes with or without textures:
 

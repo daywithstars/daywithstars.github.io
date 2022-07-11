@@ -67,7 +67,7 @@ int main(int argc, char** argv)
 }
 ```
 
-	{% include adsense.html %}
+{% include adsense.html %}
 
 We are looking for [SDL_RenderGeometry](https://wiki.libsdl.org/SDL_RenderGeometry) function. 
 
