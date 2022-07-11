@@ -163,5 +163,5 @@ In the next tutorial, I will show some basic shapes drawings, then how to use te
 
 You can download the source code for this tutorial here: <a href="/assets/21-12-07/main.c" download>download</a>
 
-[<-Previous Post](https://daywithstars.github.io/sdl2/geometry/2021/12/03/SDL2-new-geometry-rendering-SDL_RenderGeometry.html)|[Next Post->](https://daywithstars.github.io/sdl2/geometry/2021/12/19/SDL2-new-geometry-rendering-SDL_RenderGeometry-part-III.html)
+[<-Previous Post]({% link _posts/2021-12-03-SDL2-new-geometry-rendering-SDL_RenderGeometry.markdown %})|[Next Post->]({% link _posts/2021-12-19-SDL2-new-geometry-rendering-SDL_RenderGeometry-part-III.markdown %})
 

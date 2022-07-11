@@ -173,5 +173,5 @@ int main(int argc, char** argv)
 
 Now you can see a white triangle on the screen. If you want to know more about the setup to use the new SDL2.0.18 version send me an email then I will create a post on how to create a setup to test SDL's features in a separate way from the OS basic environment. 
 
-[Next Post->](https://daywithstars.github.io/sdl2/geometry/2021/12/07/SDL2-Geometry-render-part-II.html)
+[Next Post->]({% link _posts/2021-12-07-SDL2-Geometry-render-part-II.markdown %})
 

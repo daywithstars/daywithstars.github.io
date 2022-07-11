@@ -500,9 +500,8 @@ Go ahead and create more shapes with different textures.
 
 If you want to receive a notification when a new post is released follow me on:
 
-twitter @OpendeveloperG
 
 instagram: @daywithstars 
 
-[<-Previous Post](https://daywithstars.github.io/sdl2/geometry/2021/12/07/SDL2-Geometry-render-part-II.html)
+[<-Previous Post]({% link _posts/2021-12-07-SDL2-Geometry-render-part-II.markdown %})
 
