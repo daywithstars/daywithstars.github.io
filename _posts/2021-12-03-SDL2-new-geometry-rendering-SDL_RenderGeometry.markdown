@@ -5,9 +5,6 @@ date:   2021-12-03 14:56:40 -0300
 categories: SDL2 geometry
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1870599781062797"
-     crossorigin="anonymous"></script>
-
 # SDL2.0.18 New way to render shapes - SDL_RenderGeometry
 
 
