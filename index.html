@@ -1,39 +1,45 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Portfólio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-            background: #f4f4f9;
-        }
-        header {
-            padding: 20px;
-            background: #333;
-            color: white;
-        }
-        main {
-            margin: 20px;
-        }
-        footer {
-            margin-top: 20px;
-            font-size: 0.9em;
-        }
-    </style>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Bem-vindo ao meu portfólio!</h1>
+        <h1>Welcome to my portfolio!</h1>
     </header>
     <main>
-        <p>Olá, eu sou Danrley, um desenvolvedor de jogos e software. Explore meu trabalho!</p>
-        <a href="https://github.com/seu-usuario" target="_blank">Meu GitHub</a>
+        <p>Hi, my name is Danrley and I work with game development. Explore my works!</p>
+        
+        <section id="buttons">
+        	<section class="button-container-1">
+                <h1>Personal Youtube channel</h1> 
+				<a href="https://www.youtube.com/@gundam7463" target="_blank">
+					<img src="assets/img/channel_profile2.png" alt="Clique para visitar" class="button-image" class="button-image">
+				</a>
+			</section>
+            <section class="button-container-2">
+                <h1>Main Youtube channel</h1> 
+				<a href="https://www.youtube.com/@daywithstars" target="_blank">
+					<img src="assets/img/channel_profile1.png" alt="Clique para visitar" class="button-image">
+				</a>
+            </section>
+        </section>
+        <section id="miscellaneous">
+            <h1>Miscellaneous</h1>
+        </section>
+        <section id="miscellaneous-buttons">
+            <a href="https://blogdoleojr.com.br/" target="_blank">
+                <img src="assets/img/logo-dhs.png" alt="Clique para visitar">
+                Blog do LeoJr
+            </a>
+        </section>
+
+        <a href="https://github.com/daywithstars" target="_blank">My GitHub</a>
     </main>
+    <script src="script.js"></script>
     <footer>
         &copy; 2024 Danrley
     </footer>
